@@ -1,0 +1,23 @@
+{
+  "name": "takelessonssupportredirect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyrychevg/TakeLessonsSupportRedirect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyrychevg/TakeLessonsSupportRedirect/issues"
+  },
+  "homepage": "https://github.com/kyrychevg/TakeLessonsSupportRedirect#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "express": "^4.17.2"
+  }
+}
